@@ -1,2 +1,2 @@
 # Analitica-de-negocios
-ADSAF
+CLASE 6TO SEMESTRE NEGOCIOS EAFIT
